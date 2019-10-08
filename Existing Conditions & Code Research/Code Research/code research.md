@@ -2,34 +2,39 @@
 
 
 
-![](situation.jpg)
+![situation map](situation.jpg)
 
 
 
 * Purpose: Build 9 parking slots on the N Franklin side of the parcel
 * Zone: **DR1** (Downtown Residential 1)
 
-![](zoning.jpg)
+![zoning map](zoning.jpg)
 
 
 
 #### From Madison Zoning code, chapter 28E (Downtown Residential Areas):
 
 * Sec 28.071(3)(a) - Parking:
+
     1. Parking shall be located in parking structures, underground, or in surface parking lots behind principal buildings. Parking structures shall be designed with liner buildings or with ground floor office or retail uses along all street-facing facades.
+
     2. **For corner lots or through lots, rear yard surface parking areas abutting any street frontage are limited to fifty percent (50%) of that frontage, and shall be located a minimum of ten (10) feet from the street property line.**
+
     3. Parking garage openings visible from the sidewalk shall have a clear maximum height of sixteen (16) feet and a maximum width of twenty-two (22) feet. Garage doors or gates shall be located a minimum of ten (10) feet from the front property line. Doors to freight loading bays are exempt from this requirement.
+
     4. No doors or building openings providing motor vehicle access to structured parking or loading facilities shall face State Street, King Street, or the Capitol Square.
 
 * Sec. 28.074(4) - Design review:
 
-    (a)  Minor exterior changes or additions may be approved by the Director of the Department of Planning, Community, and Economic Development if he/she determines that the changes or additions are compatible with the existing design or consistent with the Downtown Urban Design Guidelines.
+    (a) Minor exterior changes or additions may be approved by the Director of the Department of Planning, Community, and Economic Development if he/she determines that the changes or additions are compatible with the existing design or consistent with the Downtown Urban Design Guidelines.
 
     (b) All new buildings and additions that are less than twenty-thousand (20,000) square feet and are not approved pursuant to (a) above, as well as **all major exterior alterations to any building** shall be approved by the Urban Design Commission based on the design standards in Sec. 28.071(3), if applicable, and the Downtown Urban Design Guidelines. The applicant or the Alderperson of the District in which the use is located may appeal the decision of the Urban Design Commission to the Plan Commission.
 
 * Sec. 28.078 -  Downtown residential 1 district:
-    (1)  Permitted and Conditional Uses. See Table 28E-2 for a complete list of allowed uses within the downtown and urban districts.
-    (2) Dimensional Standards. Standards represent minimums unless otherwise noted. Dimensions are in feet unless otherwise noted.
+
+    1. Permitted and Conditional Uses. See Table 28E-2 for a complete list of allowed uses within the downtown and urban districts.
+    2. Dimensional Standards. Standards represent minimums unless otherwise noted. Dimensions are in feet unless otherwise noted:
 
     Lot area (sq. ft.) : 3,000
     Lot width: 1, 2, and 3-unit dwellings: 30 > 3-unit dwellings, and non-residential and mixed-use buildings: 40
@@ -64,14 +69,18 @@
 * Sec. 28.141(8) - Residential parking design and location
 
     1. Parking is not permitted within front yard setbacks, or any street side yard setback, including the side yard setback extension into the rear yard, except on a driveway meeting the standards of Subsection (9) below.
+
     2. Parking shall not be located on street terraces, driveways, or any other areas located within a public right-of-way not explicitly designated by the Director of Public Works.
+
     3. Parking spaces may be located within: a.  an interior side yard setback. b. a rear yard setback, except as in sub. 1 above. (Am. by ORD-14-00133, 8-13-14) c. the building envelope.
+
     4. **Parking on a Through Lot. Through lots are defined as having two (2) front yards and no rear yard. Parking on a through lot may be located within the building envelope, or an interior side yard setback, but not in either front yard setback.**
+
     5. **A maximum of forty percent (40%) of the front and rear yard setbacks may be paved and used for driveway and parking purposes provided lot coverage requirements are not exceeded.**
 
     Landscaping and Screening. All off-street parking areas shall be landscaped according to the standards of Sec. 28.142, with the exception of parking for single-family detached, two-family and three-family dwellings.
 
-![](parking in setbacks.jpg)
+![setbacks illustration](parking in setbacks.jpg)
 
 * Sec. 28.141(9) -  Residential Driveway Design and Location
 
@@ -97,3 +106,31 @@
 
     Landscape Calculations and Distribution: Required landscaped areas shall be calculated based upon the total developed area of the property. Developed area, for the purpose of this requirement, is defined as that area within a single contiguous boundary which is made up of structures, parking, driveways and docking/loading facilities, but excluding the area of any building footprint at grade, land designated for open space uses such as athletic fields, and undeveloped land area on the same zoning lot. (a) Five (5) landscape points shall be provided for each three hundred (300) square feet of developed area.
 
+### From International Building Code ICC 2015
+
+* Chapter 8 / section 801 - Parking
+
+    https://codes.iccsafe.org/content/IZC2015/chapter-8-general-provisions?site_type=public
+    
+    Minimum width: 9ft (8ft for compact stalls)
+    Minimum length: 20ft (18ft for compact stalls)
+    
+### Angular stalls dimensioning
+
+    https://www.codepublishing.com/WA/MillCreek/html/MillCreek17/MillCreek1727.html
+    
+    For 45 degrees stalls:
+    
+    Stall width: 8.5ft
+    Stall depth: 19.4ft
+    Aisle width: 13.5ft
+    
+![parking stall dimensions](parking stall dimensions.jpg)
+
+### Areas computing
+
+    http://www.cityofmadison.com/assessor/property/propertydata.cfm?ParcelN=070913320043
+    Terrain area:  10692 sqft
+    Max coverage: 75% x 10692 sqft = 8019 sqft
+    Current coverage: 6890 sqft (estimate) + 2988 sqft (projected) = 9878 sqft
+    
