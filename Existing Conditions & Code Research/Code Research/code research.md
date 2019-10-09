@@ -124,7 +124,7 @@
     Stall width: 8.5ft
     Stall depth: 19.4ft
     Aisle width: 13.5ft
-    
+
 ![parking stall dimensions](parking stall dimensions.jpg)
 
 ### Areas computing
@@ -133,4 +133,27 @@
     Terrain area:  10692 sqft
     Max coverage: 75% x 10692 sqft = 8019 sqft
     Current coverage: 6890 sqft (estimate) + 2988 sqft (projected) = 9878 sqft
-    
+
+
+
+#### From Madison zoning code, chapter 10 - Parkings
+
+* Sec. 10.08(1)(q)(2) - Number of Entrances
+
+(a) A maximum of two (2) entrances shall be permitted to a residential site provided that where a single off-street parking facility shall serve more than one residential site no more than two (2) entrances shall be permitted to such a facility.
+
+(c) When in the opinion of the Traffic Engineer, after hearing the views of the permittee, it is in the interests of good traffic operation, the Traffic Engineer may permit: 1. One (1) additional driveway entrance along a continuous site frontage in excess of six hundred (600) feet or two (2) additional driveway entrances along a
+continuous site frontage in excess of twelve hundred (1,200) feet. 2. One (1) additional entrance from each of not more than two (2) abutting streets where continuous frontage is less than six hundred (600) feet; provided that such additional entrances be used exclusively as a service drive for the purpose of loading or unloading materials or merchandise, and which drive is physically separated from other off-street vehicle facilities and not available to customers thereof through the use of a six-inch (6”) high raised rolled asphalt or poured in place concrete curb or a guardrail erected eighteen (18) inches in height to the
+center measured from the paved parking surface. 3. One (1) or two (2) driveway entrances from additional abutting streets.
+
+* Sec. 10.08(1)(q)(3) - Location of Entrances
+
+(b) No entrance shall be closer than five (5) feet to an adjacent property line; provided, however, that in cases of practical difficulty or unnecessary hardship the City Engineer, Traffic Engineer and Director of the Building Inspection Division may jointly reduce such requirement with subsequent appeal to the Board, if necessary. No driveway approach shall be so constructed that any part of the same extends in front of property belonging to a person other than the permittee unless both property owners sign a joint application for a permit. (Am. by Ord. 8081, 7-29-83; ORD-08-00109, 10-7-08)
+
+Maximum permitted width of entrance ........................................................ 20 feet
+Minimum permitted width of entrance ........................................................... 8 feet
+Maximum permitted width of driveway ....................................................... 20 feet
+Minimum permitted width of driveway .......................................................... 8 feet
+
+![x](madison parking code.jpg)
+
