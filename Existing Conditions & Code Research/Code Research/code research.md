@@ -132,7 +132,7 @@
     http://www.cityofmadison.com/assessor/property/propertydata.cfm?ParcelN=070913320043
     Terrain area:  10692 sqft
     Max coverage: 75% x 10692 sqft = 8019 sqft
-    Current coverage: 6890 sqft (estimate) + 2988 sqft (projected) = 9878 sqft
+    Current coverage: 6890 sqft (estimate existing) + 2739 sqft (projected) = 9629 sqft
 
 
 
