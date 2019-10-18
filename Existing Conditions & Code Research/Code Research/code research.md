@@ -132,8 +132,16 @@
     http://www.cityofmadison.com/assessor/property/propertydata.cfm?ParcelN=070913320043
     Terrain area:  10692 sqft
     Max coverage: 75% x 10692 sqft = 8019 sqft
-    Current coverage: 6890 sqft (estimate existing) + 2739 sqft (projected) = 9629 sqft
+    Current coverage: 6890 sqft (estimate existing). Remaining coverable area = 8019 - 6890 = 1129 sqft
 
+    Current open usable area: 10692 - 6890 = 3802 sqft
+    Proposed additional paved area: 2739 sqft
+    Estimating minimum usable open space: 29 apartments x 1 bedrooms + 3 apartments x 3 bedrooms = 38 x 40 sqft = 1520
+    Allowed paved area = 3802 - 1520 = 2282 sqft
+
+    Max covered area = 1129 sqft
+    
+    Proposed covered area: 2252 sqft - satisfies open usable area but not lot coverage.
 
 
 #### From Madison zoning code, chapter 10 - Parkings
